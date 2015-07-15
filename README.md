@@ -1,2 +1,1 @@
-# scribus-manual-phylosophy
-Understanding how Scribus works
+# Understanding how Scribus works
