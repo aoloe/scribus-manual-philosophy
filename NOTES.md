@@ -1,5 +1,6 @@
 # Notes
 
+- or can we call this "scribus-manual-doing-the-right-thing"?
 - linking to image frames, loading text frames
 - creating and using colors
 - bold and italics
