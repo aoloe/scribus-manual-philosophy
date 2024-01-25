@@ -1,6 +1,6 @@
 # Notes
 
-- or can we call this "scribus-manual-doing-the-right-thing"?
+- or can we call this "scribus-manual-doing-the-right-thing"? "doing it the scribus way"? "Scribus: basic concepts"
 - linking to image frames, loading text frames
 - creating and using colors
 - bold and italics
