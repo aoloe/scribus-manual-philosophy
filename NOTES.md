@@ -1,5 +1,32 @@
 # Notes
 
+Similar to the first steps but more focused on linking to the relevant information rather than on getting the simplest things done (in the right way)
+
+- Frame based content
+- Loading text
+  - For very simple documents: double click on the text frame and type ahead.
+  - For longer documents, type and proofread your text in LibreOffice or text files and load it into text frames.
+- Formatting text
+  - The content palette
+  - Paragraph and character styles
+- Images
+  - Supported and suggested image types
+  - Scaling and moving inside of the frame
+- Page layout
+  - Guides (snap, columns / rows)
+- Repetive content
+  - Styles
+  - Scrapbook and symbols
+  - Master page
+  - Templates
+- Output: producing PDFs
+- Color management
+- Weak points
+  - Table of contents (python script)
+  - Footnotes
+  - Running titles (python script)
+  - Tables (import from LibreOffice)
+
 - or can we call this "scribus-manual-doing-the-right-thing"? "doing it the scribus way"? "Scribus: basic concepts"
 - linking to image frames, loading text frames
 - creating and using colors
