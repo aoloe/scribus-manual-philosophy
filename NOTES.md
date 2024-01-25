@@ -17,3 +17,24 @@
 - master pages as a background (+scrapbook, ...)
 - avoid using the "story editor" (ctrl-t) except for the cases where you really need it (double click a text field to enter the edit mode, press esc to leave the edit mode and display the "window > properties" palette for formatting your text)
 - ESC key for leaving the current edit mode and go back, step by step, to the original unselected state.
+
+
+I created a master page template. When I go into edit mode and add pages with the chosen template, the text or image blocks are not accessible to enter elements? This is nonsense. Where is the time saved by making a master page template and having to retrace the frames to enter text or images?
+
+that's because common items tend to have far more exceptions, than what you expect when carefully set up the "templates" before starting the layout.
+
+in scribus, master pages are some sort of background for the pages.
+
+use them for:
+
+- guides
+- page numbers
+- whatever is *exactly* the same on *every* page based on that master page
+
+if you want to get some help, for creating "similar" items on your pages you can use:
+
+- styles
+- the scrapbook and symbols
+- text variables
+
+mix them at your liking and you will be able to create your document in a "positive" way (and never ask yourself: how can i remove the image borders but only on this specific page?)
