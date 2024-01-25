@@ -2,6 +2,8 @@
 
 Similar to the first steps but more focused on linking to the relevant information rather than on getting the simplest things done (in the right way)
 
+Table of contents:
+
 - Frame based content
 - Loading text
   - For very simple documents: double click on the text frame and type ahead.
@@ -17,6 +19,9 @@ Similar to the first steps but more focused on linking to the relevant informati
 - Repetive content
   - Styles
   - Scrapbook and symbols
+    1. Design a page with the desired layout.
+    2. Select everything on the page and "Send to scrapbook"
+    3. When you want to create a page with that design, go to that page and double click the scrapbook entry. The contents is the inserted onto the page in the same position as it was when you sent it to the scrapbook.
   - Master page
   - Templates
 - Output: producing PDFs
@@ -26,6 +31,8 @@ Similar to the first steps but more focused on linking to the relevant informati
   - Footnotes
   - Running titles (python script)
   - Tables (import from LibreOffice)
+
+Some notes:
 
 - or can we call this "scribus-manual-doing-the-right-thing"? "doing it the scribus way"? "Scribus: basic concepts"
 - linking to image frames, loading text frames
